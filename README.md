@@ -2,6 +2,8 @@
 
 ## Requirements
 - mcp[cli]
+- Pandas
+- Pathlib
 
 ## To run the server
 
